@@ -17,7 +17,7 @@ element = {
     "Kr" : ("Krypton", 83.8, 8),
     "I" : ("Iodine", 126.9, 7),
     "Xe" : ("Xenon", 131.3, 8),
-    "Rn" : ("Radon", 22, 8)
+    "Rn" : ("Radon", 222, 8)
 }
    
 def verify_element(e):
